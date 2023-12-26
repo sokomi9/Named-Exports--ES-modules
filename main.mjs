@@ -1,3 +1,4 @@
+//destructuring when importing
 import { add, subtract } from "./math.mjs"
 
 console.log(add(1,3));
